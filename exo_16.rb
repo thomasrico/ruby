@@ -5,7 +5,6 @@ user_yr = Integer(gets.chomp)
 year = user_yr
 i = 0
 
-
 while year <= 2020
 
 
